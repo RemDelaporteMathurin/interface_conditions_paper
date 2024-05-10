@@ -11,5 +11,5 @@ docker run -ti -v $(pwd):/home/fenics/shared --name fenics quay.io/fenicsproject
 2. Install FESTIM 0.7.1
 
 ```
-pip install git+https://github.com/RemDelaporteMathurin/FESTIM@0.7.1
+pip install festim==0.7.1
 ```
